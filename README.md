@@ -1,6 +1,6 @@
---==TDSS (Top-Down Space Shooter) User Manual==--
+= TDSS (Top-Down Space Shooter) User Manual =
 
---Background story--
+== Background story ==
 The Earth is invaded by a fleet of alliens called
 "The Doomocrates" led by a mysterious entity of
 pure evil, the Mandic. Mankind has invested all of 
@@ -10,7 +10,7 @@ It is your duty, as the ship's pilot to battle
 your way trough the Doomocrate horde and defeat
 the evil Mandic.
 
---Controls--
+== Controls ==
 -Button scheme-
 W-move up
 A-move left
@@ -90,8 +90,8 @@ to attack the player.
 If you have any technical difficulties playing
 the game, an idea that could improve the game,
 or want to support or join the developer team,
-contact us using this e-mail: d4n1l0@yandex.ru
+contact us here, on Git, or using this e-mail: d4n1l0@yandex.ru
 
---Credits--
+== Credits--
 Game concept, art, coding, mechanics and everything
 else was done by Nikola Milenic and Danilo Djokic

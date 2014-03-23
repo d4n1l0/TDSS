@@ -1,6 +1,9 @@
-= TDSS (Top-Down Space Shooter) User Manual =
+TDSS (Top-Down Space Shooter) User Manual
+===
 
-== Background story ==
+Background story
+==
+
 The Earth is invaded by a fleet of alliens called
 "The Doomocrates" led by a mysterious entity of
 pure evil, the Mandic. Mankind has invested all of 
@@ -10,7 +13,12 @@ It is your duty, as the ship's pilot to battle
 your way trough the Doomocrate horde and defeat
 the evil Mandic.
 
-== Controls ==
+Gameplay
+==
+
+Controls 
+=
+
 -Button scheme-
 W-move up
 A-move left
@@ -32,7 +40,10 @@ but the ship can't fire if it is out of ammo.
 When hit, the ship loses a life. It starts with
 3 lives and if you lose all lives, you lose the game.
 You regain a life each time you get an upgrade.
--Upgrades-
+
+Upgrades
+=
+
 Every fifth level, the player can chose an upgrade.
 Fragmentation will cause each missile to send fragments
 in random directions upon impact. At sufficient level, 
@@ -53,10 +64,16 @@ Nuke is a slow reloading area-of-effect weapon. When activated, it
 creates an explosion that expands over time, causing damage over time
 to all enemies within it. The size of the explosion is proportional to
 the nuke level.
---Enemies--
+
+Enemies
+=
+
 Every 15 seconds, a new wave of enemies appears.
 Each wave is stronger than the last one. 
--Fighter-
+
+Fighter
+=
+
 Fighter is the most common enemy. It will fly
 towards the player's ship and try to ram it,
 destroying itself in the process.
@@ -73,7 +90,10 @@ vulnerable. Testudon has 5 hitpoints. Additionally,
 when killed, testudon produces an explosion capable of
 destroying nearby fighters. A fighter will also be 
 destroyed if it colides with testudon.
--Mandic-
+
+Mandic
+=
+
 A final boss that appears on level 15. 
 It has 125 hitpoints and its attacks'
 power depends on how badly damaged he is. Mandic will
@@ -86,12 +106,15 @@ them very hard to dodge. Their density makes it likely
 that the player will not survive being hit by one.
 When calling reinforcements, Mandic will call 1-5 fighters
 to attack the player.
---Feedback and support--
+
+Feedback and support
+==
 If you have any technical difficulties playing
 the game, an idea that could improve the game,
 or want to support or join the developer team,
 contact us here, on Git, or using this e-mail: d4n1l0@yandex.ru
 
-== Credits--
+Credits
+==
 Game concept, art, coding, mechanics and everything
 else was done by Nikola Milenic and Danilo Djokic

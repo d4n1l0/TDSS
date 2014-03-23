@@ -16,7 +16,7 @@ the evil Mandic.
 Gameplay
 --------
 
-1. **Controls** \\
+1. **Controls** <br>
 -Button scheme-
 W-move up
 A-move left
@@ -38,7 +38,7 @@ but the ship can't fire if it is out of ammo.
 When hit, the ship loses a life. It starts with
 3 lives and if you lose all lives, you lose the game.
 You regain a life each time you get an upgrade.
-2. **Upgrades** \\
+2. **Upgrades** <br>
 Every fifth level, the player can chose an upgrade.
 Fragmentation will cause each missile to send fragments
 in random directions upon impact. At sufficient level, 
@@ -59,10 +59,10 @@ Nuke is a slow reloading area-of-effect weapon. When activated, it
 creates an explosion that expands over time, causing damage over time
 to all enemies within it. The size of the explosion is proportional to
 the nuke level.
-3. **Enemies** \\
+3. **Enemies** <br>
 Every 15 seconds, a new wave of enemies appears.
 Each wave is stronger than the last one. 
-4. **Fighter** \\
+4. **Fighter** <br>
 Fighter is the most common enemy. It will fly
 towards the player's ship and try to ram it,
 destroying itself in the process.
@@ -79,7 +79,7 @@ vulnerable. Testudon has 5 hitpoints. Additionally,
 when killed, testudon produces an explosion capable of
 destroying nearby fighters. A fighter will also be 
 destroyed if it colides with testudon.
-5. **Mandic** \\
+5. **Mandic** <br>
 A final boss that appears on level 15. 
 It has 125 hitpoints and its attacks'
 power depends on how badly damaged he is. Mandic will

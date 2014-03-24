@@ -17,11 +17,11 @@ Gameplay
 --------
 
 1. **Controls** <br>
--Button scheme-
-W-move up
-A-move left
-S-move down
-D-move right
+-Button scheme- <br>
+W-move up <br>
+A-move left <br>
+S-move down <br>
+D-move right<br>
 MOUSE-aim
 LEFT MOUSE BUTTON-fire
 SPACE-nuke
